@@ -2,7 +2,7 @@
 
 **`still figuring this out`**
 
-In my professional 5-year experience in not knowing what I’m doing and having things somehow work out in the end I managed to keep up the trend of not knowing what I’m doing and having things somehow work out in the end.I am able to stubble my way towards a solution working with GCP (mostly BigQuery and Cloud Composer), Azure (Databricks and ADF) and some other stuff that I don’t remember right now. Programming in Python & Apps Scripts made no servers burn so far.
+In my professional 5-year experience in not knowing what I’m doing and having things somehow work out in the end I managed to keep up the trend of not knowing what I’m doing and having things somehow work out in the end. I am able to stubble my way towards a solution working with GCP (BigQuery, Cloud Composer/Airflow, GA4, Looker Studio, you name it) and some other stuff that I don’t remember right now. Programming in Python & Apps Scripts, I've made no servers burn so far.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ursula-von-der-leyen/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -32,9 +32,9 @@ In my professional 5-year experience in not knowing what I’m doing and having 
 ---
 ### :fire: My Stats (public):
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=podymniak&theme=vision-friendly-dark&mode=weekly&card_width=895)](https://github.com/podymniak)
+<a href="https://github.com/podymniak"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podymniak&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=895" /></a>
 
 [//]: # (<a href="https://github.com/podymniak" style="text-decoration:none !important; margin-right: 20 !important;"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=podymniak&show_icons=true&theme=vision-friendly-dark&card_width=250" /></a>)
-<a href="https://github.com/podymniak"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podymniak&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=895" /></a>
 
 
 <!--
