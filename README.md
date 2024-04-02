@@ -34,7 +34,7 @@ In my professional 5-year experience in not knowing what I’m doing and having 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=podymniak&theme=vision-friendly-dark&mode=weekly&card_width=895)](https://github.com/podymniak)
 
 <a href="https://github.com/podymniak" style="text-decoration:none !important; margin-right: 20 !important;"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=podymniak&show_icons=true&theme=vision-friendly-dark&card_width=320" /></a>
-<a href="https://github.com/podymniak"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podymniak&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" /></a>
+<a href="https://github.com/podymniak"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podymniak&layout=compact&theme=vision-friendly-dark&langs_count=8" /></a>
 
 
 <!--
