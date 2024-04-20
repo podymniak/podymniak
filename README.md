@@ -5,8 +5,8 @@
 In my professional 5-year experience in not knowing what I’m doing and having things somehow work out in the end I managed to keep up the trend of not knowing what I’m doing and having things somehow work out in the end. I am able to stubble my way towards a solution working with GCP (BigQuery, Cloud Composer/Airflow, GA4, Looker Studio, you name it) and some other stuff that I don’t remember right now. Programming in Python & Apps Scripts, I've made no servers burn so far.
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ursula-von-der-leyen/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:fakeemailhopenoonehasthis@gmail.com"><img alt="gmail" title="my gmail" src="https://custom-icon-badges.demolab.com/badge/-no.reply@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marta-podymniak/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:podymniak.marta@gmail.com"><img alt="gmail" title="my gmail" src="https://custom-icon-badges.demolab.com/badge/-email-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
   <a href="https://github.com/podymniak?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/podymniak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/podymniak?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/podymniak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </div>
