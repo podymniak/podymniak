@@ -1,8 +1,18 @@
 # #me
 
-**`still figuring this out`**
+## 👋 Hello there!
 
-In my professional 5-year experience in not knowing what I’m doing and having things somehow work out in the end I managed to keep up the trend of not knowing what I’m doing and having things somehow work out in the end. I am able to stubble my way towards a solution working with GCP (BigQuery, Cloud Composer/Airflow, GA4, Looker Studio, you name it) and some other stuff that I don’t remember right now. Programming in Python & Apps Scripts, I've made no servers burn so far.
+I'm a Data Engineer with X+ years of experience in building cloud-native data solutions, I work mostly behind the scenes - designing serverless pipelines, managing infrastructure on GCP, and building internal tools to empower teams.
+
+### My focus is on:
+
+- 🚀 Building scalable ETL/ELT pipelines (Airflow, APIs, BigQuery).
+- 🧠 Turning messy data into usable insights.
+- 🤝 Bridging the gap between technical and non-technical stakeholders.
+
+
+🔒 Most of my work is private, but I'm always open to collaboration, feedback, and connecting with like-minded developers.
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/marta-podymniak/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
